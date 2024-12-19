@@ -1,1 +1,1 @@
-# LEMA: LMT-oriented Entity Mapping Network for Long-text Composed Image Retrieval
+# ENCODER: Entity Mining and Modification Relation Binding for Composed Image Retrieval
